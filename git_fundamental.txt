@@ -2,4 +2,8 @@ Git is a de facto standard
 Git is the most broadly adopted tool of its kind. This makes Git attractive for the following reasons. At 
 Atlassian, nearly all of our project source code is managed in Git.
 
-Vast numbers of developers already have Git experience and a significant proportion of college graduates may have experience with only Git. While some organizations may need to climb the learning curve when migrating to Git from another version control system, many of their existing and future developers do not need to be trained on Git.
+Vast numbers of developers already have Git experience and a significant 
+proportion of college graduates may have experience with only Git. 
+While some organizations may need to climb the learning curve when 
+migrating to Git from another version control system, many of their 
+existing and future developers do not need to be trained on Git.
