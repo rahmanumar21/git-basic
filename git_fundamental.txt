@@ -8,5 +8,8 @@ While some organizations may need to climb the learning curve when
 migrating to Git from another version control system, many of their 
 existing and future developers do not need to be trained on Git.
 
-In addition to the benefits of a large talent pool, the predominance of Git also means that many third party software tools and services are already integrated with Git including IDEs, and our own tools like DVCS desktop client Sourcetree, issue and project tracking software, Jira, and code hosting service, Bitbucket.
+In addition to the benefits of a large talent pool, the predominance of Git 
+also means that many third party software tools and services are already 
+integrated with Git including IDEs, and our own tools like DVCS desktop 
+client Sourcetree, issue and project tracking software, Jira, and code hosting service, Bitbucket.
 
