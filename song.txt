@@ -1,0 +1,3 @@
+Git has the functionality, performance, security and flexibility that most 
+teams and individual developers need.
+These attributes of Git are detailed above.
