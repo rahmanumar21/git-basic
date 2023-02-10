@@ -1,0 +1,3 @@
+Git is a de facto standard
+Git is the most broadly adopted tool of its kind. This makes Git attractive for the following reasons. At 
+Atlassian, nearly all of our project source code is managed in Git.
